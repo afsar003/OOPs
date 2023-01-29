@@ -8,17 +8,3 @@ num.b=34
 s=num.sum()
 print(s)
 
-
-#a = 12
-#b = 34
-
-#print("Sum of a+b is",a+b)
-
-'''
-PascalCase
-EmployeeName -->PascalCase both capital
-
-camelCase
-isNumeric , isFloatorInt -->camelCase first small next capital
-
-'''
